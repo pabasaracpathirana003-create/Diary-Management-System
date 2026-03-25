@@ -15,6 +15,6 @@ This system allows users to write, edit, and manage daily diary entries.
 - Swing
 
 ## How to Run
-1. Import project into NetBeans or Eclipse
+1.Open the project in IntelliJ IDEA
 2. Setup database using database.sql
 3. Run the project
