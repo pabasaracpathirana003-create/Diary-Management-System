@@ -1,4 +1,5 @@
 # Diary-Management-System
+(Submitted by - GADSE243F-019 / GADSE243F-002)
 
 ## Description
 This system allows users to write, edit, and manage daily diary entries.
